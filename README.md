@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evans-tats&label=Profile%20views&color=0e75b6&style=flat" alt="evans-tats" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evans-tats" alt="evans-tats" /></a> </p>
-
 - 🌱 I’m currently learning **Apache Kafka, Airflow, PySpark, MLflow, and deploying ML models with Docker and Kubernetes**
 
 - 📝 I regularly write articles on [https://medium.com/@evanskipsang21](https://medium.com/@evanskipsang21)
